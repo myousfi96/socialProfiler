@@ -23,13 +23,13 @@ A Python application that analyzes X (Twitter) profiles to determine personality
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd weareera
 ```
 
 2. **Create virtual environment**
 ```bash
 python -m venv venv
 source venv/bin/activate  
+```
 
 3. **Install dependencies**
 ```bash
