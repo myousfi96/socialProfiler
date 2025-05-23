@@ -1,0 +1,3 @@
+"""
+Social Profiler frontend package.
+""" 

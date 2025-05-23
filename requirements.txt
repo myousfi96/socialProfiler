@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain_openai
+twscrape
+python-dotenv 
+langfuse
+streamlit
+plotly
+pytest
+pytest-asyncio
+pytest-mock
+httpx
