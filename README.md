@@ -5,7 +5,7 @@ A Python application that analyzes X (Twitter) profiles to determine personality
 ## Features
 
 - **Profile Analysis**: Analyze X profiles based on recent tweets
-- **Sentiment Analysis**: Determine emotional sentiment from tweet content
+- **Sentiment Analysis**: Determine emotional sentiment from tweet contentpal
 - **Topic Classification**: Identify main topics and interests
 - **Personality Insights**: Generate personality profiles
 - **Web Interface**: Streamlit frontend for easy interaction
@@ -56,7 +56,7 @@ MODEL_NAME=gpt-4.1  # Default: gpt-4.1
 
 ## Running the Application
 
-### Option 1: Web Interface (Streamlit)
+### Web Interface (Streamlit)
 
 ```bash
 streamlit run src/frontend/app.py
@@ -64,7 +64,7 @@ streamlit run src/frontend/app.py
 
 The web interface will be available at `http://localhost:8501`
 
-### Option 2: API Server (FastAPI)
+### API Server (FastAPI)
 
 ```bash
 uvicorn src.api.main:app --reload
